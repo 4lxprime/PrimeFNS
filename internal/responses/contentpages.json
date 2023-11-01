@@ -9,7 +9,7 @@
       "_type": "CommonUI Simple Message",
       "message": {
         "_type": "CommonUI Simple Message Base",
-        "title": "Goldmp",
+        "title": "PrimeFNS",
         "body": "Server created by asprime (https://discord.gg/YMpy4EYkG5)"
       }
     },
@@ -218,12 +218,12 @@
           "spotlight": false
         },
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Goldmp",
-          "body": "Enjoy Goldmp!",
+          "title": "PrimeFNS",
+          "body": "Enjoy PrimeFNS!",
           "spotlight": false
         }
       ]
@@ -317,7 +317,7 @@
     "playlistimages": {
       "images": [
         {
-          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LTM-Tile_Playground-1024x512-53db8a4b5fb41251af279eaf923bc00ecbc17792.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LTM-Tile_Playground-1024x512-53db8a4b5fb41251af279eaf923bc00ecbc17792.png",
           "_type": "PlaylistImageEntry",
           "playlistname": "Playlist_Playground"
         },
@@ -354,10 +354,10 @@
       "tournaments": [
         {
           "title_color": "FFFFFF",
-          "loading_screen_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "loading_screen_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "background_text_color": "1B1B1B",
           "background_right_color": "DD091A",
-          "poster_back_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "poster_back_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "_type": "Tournament Display Info",
           "pin_earned_text": "lmao",
           "tournament_display_id": "s11_switchcup",
@@ -365,7 +365,7 @@
           "schedule_info": "November 2nd & 3rd: 2pm - 5pm JST",
           "primary_color": "FFFFFF",
           "flavor_description": "cool",
-          "poster_front_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "poster_front_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "short_format_title": "Event Sessions",
           "title_line_2": "boomer",
           "title_line_1": "Solo",
@@ -375,7 +375,7 @@
           "long_format_title": "nice",
           "poster_fade_color": "DD091A",
           "secondary_color": "1B1B1B",
-          "playlist_tile_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "playlist_tile_image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "base_color": "FFFFFF"
         }
       ],
@@ -394,7 +394,7 @@
         {
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "Goldmp",
+          "title": "PrimeFNS",
           "body": "Server created by asprime (https://discord.gg/YMpy4EYkG5)",
           "spotlight": true
         }
@@ -419,7 +419,7 @@
           "gamemodes": [],
           "hidden": false,
           "_type": "CommonUI Emergency Notice Base",
-          "title": "Goldmp",
+          "title": "PrimeFNS",
           "body": "Server created by asprime (https://discord.gg/YMpy4EYkG5)"
         }
       ]
@@ -603,21 +603,21 @@
           "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "Goldmp",
+          "tabTitleOverride": "PrimeFNS",
           "_type": "CommonUI Simple Message MOTD",
           "title": {
-            "ar": "مرحبًا بك في Goldmp!",
-            "en": "Welcome to Goldmp!",
-            "de": "Willkommen bei Goldmp!",
-            "es": "¡Bienvenidos a Goldmp!",
-            "es-419": "¡Bienvenidos a Goldmp!",
-            "fr": "Bienvenue sur Goldmp !",
-            "it": "Benvenuto in Goldmp!",
-            "ja": "Goldmpへようこそ！",
-            "ko": "Goldmp에 오신 것을 환영합니다!",
-            "pl": "Witaj w Goldmp!",
-            "pt-BR": "Bem-vindo ao Goldmp!",
-            "ru": "Добро пожаловать в Goldmp!",
+            "ar": "مرحبًا بك في PrimeFNS!",
+            "en": "Welcome to PrimeFNS!",
+            "de": "Willkommen bei PrimeFNS!",
+            "es": "¡Bienvenidos a PrimeFNS!",
+            "es-419": "¡Bienvenidos a PrimeFNS!",
+            "fr": "Bienvenue sur PrimeFNS !",
+            "it": "Benvenuto in PrimeFNS!",
+            "ja": "PrimeFNSへようこそ！",
+            "ko": "PrimeFNS에 오신 것을 환영합니다!",
+            "pl": "Witaj w PrimeFNS!",
+            "pt-BR": "Bem-vindo ao PrimeFNS!",
+            "ru": "Добро пожаловать в PrimeFNS!",
             "tr": "LavinServer'a Hoş Geldiniz!"
           },
           "body": {
@@ -653,17 +653,17 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "DISCORD!",
-          "title": "Join Nocturno!",
+          "title": "Join Nocturno community!",
           "body": "https://discord.gg/YMpy4EYkG5",
           "spotlight": false
         },
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Goldmp",
-          "body": "Enjoy Goldmp!",
+          "title": "PrimeFNS",
+          "body": "Enjoy PrimeFNS!",
           "spotlight": false
         }
       ]
@@ -710,17 +710,17 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "DISCORD!",
-          "title": "Join Nocturno!",
+          "title": "Join Nocturno community!",
           "body": "https://discord.gg/YMpy4EYkG5",
           "spotlight": false
         },
         {
-          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/lawin.jpg",
+          "image": "https://fortnite-public-service-prod11.ol.epicgames.com/images/oldmp.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Goldmp",
-          "body": "Enjoy Goldmp!",
+          "title": "PrimeFNS",
+          "body": "Enjoy PrimeFNS!",
           "spotlight": false
         }
       ]

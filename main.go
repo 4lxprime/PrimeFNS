@@ -14,6 +14,8 @@ func main() {
 		return c.SendString("Hello World!")
 	})
 
+	r.Static("/images/", "internal/public/")
+
 	fnApiGroup := r.Group("/fortnite/api")
 	fnApiGroup.Get("/v2/versioncheck/:platform", handlers.HandleFortniteVCheck)
 	fnApiGroup.Get("/receipts/v1/account/:accountId/receipts", handlers.HandleReceipts)
